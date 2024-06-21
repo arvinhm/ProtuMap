@@ -1,0 +1,8 @@
+name: gene_expression_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - pip
