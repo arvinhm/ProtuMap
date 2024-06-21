@@ -41,5 +41,5 @@ Follow these steps to set up the environment and run the software:
     ```sh
     python main_script.py
     ```
-
+![Diagram](figures/RCOR1.png)
 
