@@ -43,6 +43,7 @@ Follow these steps to set up the environment and run the software:
     ```
 ![Diagram](figures/RCOR1.png)
 **Results**
+
 Gene: RCOR1
 
 Not detected in: cerebellum, cerebral cortex, soft tissue 1, testis
