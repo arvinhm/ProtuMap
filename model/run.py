@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Function to load the data from the four files
 def load_expression_data():
     not_detected_file = r'source/not_detected_genes_by_tissue_normal.csv'
     high_file = r'source/high_genes_by_tissue.csv'
@@ -15,7 +14,7 @@ def load_expression_data():
     
     return not_detected_df, high_df, medium_df, low_df
 
-# Function to search for the gene in the dataframes and print the results
+
 def search_gene_expression(gene):
     not_detected_df, high_df, medium_df, low_df = load_expression_data()
     
@@ -64,10 +63,8 @@ def search_gene_expression(gene):
     else:
         print("Low expression in: None")
     
-    # Generate the visualization
     generate_expression_visualization(gene, high_tissues, medium_tissues, low_tissues, not_detected_tissues)
 
-# Function to generate a bar chart for the gene expression levels
 def generate_expression_visualization(gene, high_tissues, medium_tissues, low_tissues, not_detected_tissues):
     # Count the number of tissues in each expression level
     counts = {
@@ -77,7 +74,6 @@ def generate_expression_visualization(gene, high_tissues, medium_tissues, low_ti
         'Not detected': len(not_detected_tissues)
     }
     
-    # Create a bar chart
     levels = list(counts.keys())
     values = list(counts.values())
     
