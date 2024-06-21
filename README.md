@@ -42,4 +42,9 @@ Follow these steps to set up the environment and run the software:
     python main_script.py
     ```
 ![Diagram](figures/RCOR1.png)
-
+###Results
+Gene: RCOR1
+Not detected in: cerebellum, cerebral cortex, soft tissue 1, testis
+High expression in: adipose tissue, adrenal gland, appendix, bone marrow, breast, bronchus, caudate, cerebral cortex, cervix, colon, duodenum, endometrium 1, epididymis, esophagus, gallbladder, heart muscle, hippocampus, kidney, lung, lymph node, nasopharynx, oral mucosa, ovary, pancreas, placenta, prostate, rectum, salivary gland, seminal vesicle, skin 1, skin 2, small intestine, smooth muscle, soft tissue 1, soft tissue 2, stomach 1, stomach 2, testis, thyroid gland, tonsil, urinary bladder, vagina
+Medium expression in: appendix, breast, caudate, cerebellum, cerebral cortex, endometrium 2, hippocampus, kidney, liver, lymph node, ovary, skeletal muscle, soft tissue 2, spleen, tonsil
+Low expression in: cervix, liver, parathyroid gland
