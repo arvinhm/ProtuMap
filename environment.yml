@@ -1,4 +1,4 @@
-name: gene_expression_env
+name: ProtuMap
 channels:
   - defaults
 dependencies:
