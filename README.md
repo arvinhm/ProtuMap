@@ -19,7 +19,7 @@ Follow these steps to set up the environment and run the software:
 
 2. **Activate the Conda environment**:
     ```sh
-    conda activate gene_expression_env
+    conda activate ProtuMap
     ```
 
 3. **Clone the GitHub repository**:
