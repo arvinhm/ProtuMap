@@ -1,7 +1,7 @@
-# ProtuMap
-ProtuMap: Protein Expression Map
+# ProtuMap Panel of Normals
+ProtuMap: Protein Expression Map - Panel of Normals
 
-ProtuMap is a software tool that uses the Human Protein Atlas IHC-based database to explore protein level expression in different tissues. It involves a robust number of proteins, more than 13,000, providing a comprehensive view of protein expression across various tissues.
+ProtuMap Panel of Normals is a software tool that uses the Human Protein Atlas IHC-based database to explore protein level expression in different tissues. It involves a robust number of proteins, more than 13,000, providing a comprehensive view of protein expression across various tissues.
 
 ## Features
 
